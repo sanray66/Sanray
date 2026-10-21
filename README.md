@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sanray66/sanray66/output/github-snake-dark.svg" />
 </p>
