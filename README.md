@@ -6,3 +6,6 @@
   <img src="https://skillicons.dev/icons?i=python,cs,js,postgres,docker,nginx,git,react,linux,vscode,redis,kafka&perline=6" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+</p>
