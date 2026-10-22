@@ -4,7 +4,7 @@
 
 <h3 align="center">Технологии</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,postgres,docker,nginx,git,react,linux,vscode,redis,kafka&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,postgres,docker,nginx,git,react,linux,vscode,redis,kafka,html,css&perline=7" />
 </p>
 
 <p align="center">
